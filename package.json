@@ -1,0 +1,29 @@
+{
+  "name": "essence-step",
+  "version": "1.0.0",
+  "description": "Essence Utils is a Node.js module providing a collection of utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/windt1lisde/essence-step"
+  },
+  "dependencies": {
+    "randomstring": "^1.3.1",
+    "put-datafeed": "1.0.0",
+    "ringcosmic-horizons": "1.0.0",
+    "kiranstephen65-quote": "1.1.4",
+    "random-fail": "1.0.0",
+    "cosmic-tools-urge": "1.0.0",
+    "mindful-utils-mind": "1.0.0",
+    "meta-magics-wear": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windt1lisde/essence-step/issues"
+  },
+  "homepage": "https://github.com/windt1lisde/essence-step#readme"
+}
